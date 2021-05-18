@@ -1,0 +1,46 @@
+[
+  {
+    "npi": "",
+    "first_name": "Jon",
+    "last_name": "doe",
+    "dob": "03-22-1996",
+    "hospital_name": "World health care",
+    "email": "jon@doe.com",
+    "password": "",
+    "mobile": "123456789",
+    "experience": 10,
+    "image_url": "qwerrrrrrrrrrrr",
+    "spec_id": "7f8f5fc0-57d3-11ea-99c5-697c53e23e48",
+    "about": "MMBS",
+    "org_details": [
+      {
+        "org_id": "",
+        "roles": [
+          ""
+        ]
+      }
+    ]
+  },
+  {
+    "npi": "",
+    "first_name": "Ray",
+    "last_name": "Ken",
+    "dob": "03-22-1996",
+    "hospital_name": "United health care",
+    "email": "Ken@ray.com",
+    "password": "",
+    "mobile": "123456789",
+    "experience": 10,
+    "image_url": "qwerrrrrrrrrrrr",
+    "spec_id": "7f8f5fc0-57d3-11ea-99c5-697c53e23e48",
+    "about": "Mbbs",
+    "org_details": [
+      {
+        "org_id": "",
+        "roles": [
+          ""
+        ]
+      }
+    ]
+  }
+]
