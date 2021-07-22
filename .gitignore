@@ -5,3 +5,4 @@
 *.clp
 *.json
 .ipynb_checkpoints/
+*.edi
